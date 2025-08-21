@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janipalliravi - Janipalli Ravi Krishna
 - 👀 I’m interested in exploring the Data
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Analytical projects
 - 📫 How to reach me janipalliravi@gmail.com
 
